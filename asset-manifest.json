@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/random-video-chat/static/css/main.101fda9d.chunk.css",
-    "main.js": "/random-video-chat/static/js/main.5547fc1c.chunk.js",
-    "main.js.map": "/random-video-chat/static/js/main.5547fc1c.chunk.js.map",
+    "main.js": "/random-video-chat/static/js/main.8db14768.chunk.js",
+    "main.js.map": "/random-video-chat/static/js/main.8db14768.chunk.js.map",
     "runtime-main.js": "/random-video-chat/static/js/runtime-main.b410959e.js",
     "runtime-main.js.map": "/random-video-chat/static/js/runtime-main.b410959e.js.map",
     "static/js/2.82a59d6b.chunk.js": "/random-video-chat/static/js/2.82a59d6b.chunk.js",
     "static/js/2.82a59d6b.chunk.js.map": "/random-video-chat/static/js/2.82a59d6b.chunk.js.map",
     "index.html": "/random-video-chat/index.html",
-    "precache-manifest.f106c1dadd459e1768e48298e0f2e28d.js": "/random-video-chat/precache-manifest.f106c1dadd459e1768e48298e0f2e28d.js",
+    "precache-manifest.71a0bb5c89e536459ea0dc786348f01e.js": "/random-video-chat/precache-manifest.71a0bb5c89e536459ea0dc786348f01e.js",
     "service-worker.js": "/random-video-chat/service-worker.js",
     "static/css/main.101fda9d.chunk.css.map": "/random-video-chat/static/css/main.101fda9d.chunk.css.map",
     "static/js/2.82a59d6b.chunk.js.LICENSE.txt": "/random-video-chat/static/js/2.82a59d6b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b410959e.js",
     "static/js/2.82a59d6b.chunk.js",
     "static/css/main.101fda9d.chunk.css",
-    "static/js/main.5547fc1c.chunk.js"
+    "static/js/main.8db14768.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7ec88676620926107450c27770c115b",
+    "revision": "e18a9abbb7b35be5c81abeaa05c11c58",
     "url": "/random-video-chat/index.html"
   },
   {
-    "revision": "642c8db67c2e2c8bf603",
+    "revision": "8e200cd9bd31ea98eead",
     "url": "/random-video-chat/static/css/main.101fda9d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/random-video-chat/static/js/2.82a59d6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "642c8db67c2e2c8bf603",
-    "url": "/random-video-chat/static/js/main.5547fc1c.chunk.js"
+    "revision": "8e200cd9bd31ea98eead",
+    "url": "/random-video-chat/static/js/main.8db14768.chunk.js"
   },
   {
     "revision": "6f451f10c965c734a68e",
