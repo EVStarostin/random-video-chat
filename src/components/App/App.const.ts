@@ -1,13 +1,13 @@
 export const ICE_SERVERS = [
   {
     urls: 'stun:evstar.ru:3478',
-    username: 'evstarostin',
-    credential: 'jck30011989',
+    username: '_',
+    credential: '_',
   },
   {
     urls: 'turn:evstar.ru:3478',
-    username: 'evstarostin',
-    credential: 'jck30011989',
+    username: '_',
+    credential: '_',
   },
 ]
 
